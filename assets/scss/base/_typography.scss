@@ -1,0 +1,15 @@
+@use '../abstracts/mixins' as *;
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.6rem;
+  @include mq-min(big-desktop) {
+    font-size: 1.8rem;
+  }
+  line-height: 1.6;
+  color: var(--clr-neutral-100);
+}

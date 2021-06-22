@@ -1,0 +1,16 @@
+POST http://localhost:3000/metrics/api/auth/login
+content-type: application/json
+
+{
+  "username": "myonecorp",
+  "userPassword": "erp2020"
+}
+
+###
+
+POST http://localhost:3000/metrics/api/auth/refresh
+content-type: application/json
+
+{
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im15b25lY29ycCIsImlhdCI6MTYyMzMyNjcwNywiZXhwIjoxNjIzOTMxNTA3fQ.UyigXYM5xuSMH1mNNj-3BwmTms6XNBnfFlxEw9Bq0qo"
+}

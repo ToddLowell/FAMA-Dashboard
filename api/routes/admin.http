@@ -1,0 +1,21 @@
+POST http://localhost:4000/admin/row
+content-type: application/json
+
+{
+  "username": "test",
+  "isAdmin": "1"
+}
+
+###
+
+DELETE http://localhost:4000/admin/row?username=test
+
+###
+
+PUT http://localhost:4000/admin/row
+content-type: application/json
+
+{
+  "username": "test",
+  "isAdmin": "0"
+}

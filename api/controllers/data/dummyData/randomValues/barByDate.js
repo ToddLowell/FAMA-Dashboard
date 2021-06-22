@@ -1,0 +1,16 @@
+module.exports = () => [
+  { key: '1', value: Math.floor(Math.random() * 200) },
+  { key: '2', value: Math.floor(Math.random() * 200) },
+  { key: '3', value: Math.floor(Math.random() * 200) },
+  { key: '4', value: Math.floor(Math.random() * 200) },
+  { key: '5', value: Math.floor(Math.random() * 200) },
+  { key: '6', value: Math.floor(Math.random() * 200) },
+  { key: '7', value: Math.floor(Math.random() * 200) },
+  { key: '8', value: Math.floor(Math.random() * 200) },
+  { key: '9', value: Math.floor(Math.random() * 200) },
+  { key: '10', value: Math.floor(Math.random() * 200) },
+  { key: '11', value: Math.floor(Math.random() * 200) },
+  { key: '12', value: Math.floor(Math.random() * 200) },
+  { key: '13', value: Math.floor(Math.random() * 200) },
+  { key: '14', value: Math.floor(Math.random() * 200) },
+];

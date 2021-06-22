@@ -1,0 +1,16 @@
+module.exports = () => [
+  { key: '2020-04-01', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-02', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-03', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-04', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-05', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-06', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-07', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-08', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-09', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-10', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-11', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-12', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-13', value: Math.floor(Math.random() * 1500) },
+  { key: '2020-04-14', value: Math.floor(Math.random() * 1500) },
+];

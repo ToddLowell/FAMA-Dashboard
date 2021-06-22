@@ -1,0 +1,14 @@
+body {
+  background: var(--clr-primary-300);
+  background: linear-gradient(to bottom right, var(--clr-primary-200), var(--clr-primary-300));
+}
+
+body.loginBg {
+  background: url(~assets/bg_login.jpg) no-repeat center !important;
+  background-size: cover !important;
+}
+
+.logo {
+  width: 3.5rem;
+  // height: 5rem;
+}

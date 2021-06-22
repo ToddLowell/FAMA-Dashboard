@@ -1,0 +1,2 @@
+GET http://localhost:3000/metrics/api/data/pos_units
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im15b25lY29ycCIsImlhdCI6MTYyMzMyNjU3NywiZXhwIjoxNjIzMzMwMTc3fQ.Y4xskute7bnie6QXMI9sCRmIrXbatbSVZzKH8wLI44E
